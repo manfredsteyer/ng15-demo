@@ -1,0 +1,9 @@
+.discount {
+    padding:20px;
+    border: 2px solid black;
+    width:300px;
+}
+
+:host {
+    display: inline-block;
+}
